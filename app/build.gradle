@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'persistent.bank.App'
+    mainClass = 'persistent.bank.Main'
 }
 
 tasks.named('test') {
