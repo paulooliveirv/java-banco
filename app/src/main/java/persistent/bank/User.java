@@ -26,7 +26,7 @@ public class User {
     }
 
     public void setName(String nome) {
-        this.name = name;
+        this.name = nome;
     }
 
     //geters and setters for email;
